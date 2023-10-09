@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ex02form</string>
+    <string name="name">Nombre:</string>
+    <string name="surname">Apellido:</string>
+    <string name="save">Guardar</string>
+    <string name="getUser">Obtener Usuario</string>
+    <string name="delete">Limpiar</string>
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_defauilt">25sp</dimen>
+    <dimen name="size_text">15sp</dimen>
+    <dimen name="size_margin">13dp</dimen>
+    <dimen name="size_margin_S">5dp</dimen>
+    <dimen name="size_editText_L">48dp</dimen>
+    <dimen name="size_editText_XL">100dp</dimen>
+    <dimen name="size_editText_M">35dp</dimen>
+</resources>
